@@ -1,1 +1,1 @@
-Just the README, this will be updated when I need it to actually convey information
+This will be the workspace for this semester, unless we can do something better. I plan to have example code on here for everyone to use, and someone from each team should make their own branch for their team and pull the code over that they require. Any questions let me know, for now just don't mess things up too bad.
